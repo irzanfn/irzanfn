@@ -3,7 +3,7 @@
 ## I'm a Final Year Student at Universitas Pembangunan Nasional Veteran Jakarta
 
 - I'm currently working on pose classification project for Taekwondo movement
-- I like to learn everything that is useful for me
+- I like to learn everything especially about machine learning
 - I’m looking to work as Machine Learning Developer or Full Stack Developer
 
 ## 🔍 You Can Find Me at
