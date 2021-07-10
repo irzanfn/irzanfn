@@ -1,8 +1,7 @@
-Hi, I'm Irzan Fajari Nurahmadan
+### Hi, I'm Irzan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-Final year student at UPN Veteran Jakarta in the field of Computer Science. Ready to use my skills and knowledge for the benefit of the company.
-Be proficient in technology, master multiple programming languages, master data processing programs, and understand company design thinking.
-Have a high willingness and motivation to try new things.
+## I'm a Final Year Student at Universitas Pembangunan Nasional Veteran Jakarta
 
-Has high interests in Machine Learning, Internet of Thing, Web Development, and Database Management Systems.
-Currently interested in doing research on computer vision and natural language processing.
+- I'm currently working on pose classification project for Taekwondo movement
+- I like to learn everything that is useful for me
+- I’m looking to work as Machine Learning Developer or Full Stack Developer
