@@ -1,10 +1,8 @@
 ### Hi, I'm Irzan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-## I'm a Final Year Student at Universitas Pembangunan Nasional Veteran Jakarta
+## Senior IT Specialist @ PT Bank Central Asia Tbk | Open to Remote & Relocation
 
-- I'm currently working on pose classification project for Taekwondo movement
-- I like to learn everything especially about machine learning
-- I’m looking to work as Machine Learning Developer or Full Stack Developer
+Senior Software Engineer and Team Lead with over 4 years of experience in high-scale banking infrastructure and a strong academic foundation (GPA 3.79/4.00). Expert in driving Cost-to-Income efficiency and Always On strategic goals through large-scale system modernization and architectural decoupling. Proven track record in resolving high-stakes stakeholder conflicts, optimizing geospatial performance for massive datasets, and standardizing enterprise-wide security protocols for millions of daily records.
 
 ## 🔍 You Can Find Me at
 
